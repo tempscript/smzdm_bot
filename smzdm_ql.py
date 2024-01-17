@@ -9,7 +9,7 @@ import os
 from pathlib import Path
 
 ql_repo_dir = Path("/ql/data/repo/")
-repo_name = "Chasing66_smzdm_bot"
+repo_name = "tempscript_smzdm_bot"
 repo_dir = Path(ql_repo_dir, repo_name)
 
 
